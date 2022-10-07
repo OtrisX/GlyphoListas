@@ -4,4 +4,4 @@
 *.cpy
 *.aux
 *.sty
-
+.gitignore
