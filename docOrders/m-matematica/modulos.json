@@ -1,0 +1,31 @@
+{
+    "Módulos":
+    {
+        "Álgebra I": [
+            {
+                "label": "Frações",
+                "description": " ",
+                "value": "m-matematica"
+            },
+            {
+                "label": "Exponenciação",
+                "description": " ",
+                "value": "m-matematica"
+            }
+        ],
+        
+        "Álgebra II": [
+            {
+                "label": "Frações",
+                "description": " ",
+                "value": "m-matematica"
+            },
+            {
+                "label": "Exponenciação",
+                "description": " ",
+                "value": "m-matematica"
+            }
+        ]
+
+    }  
+}
