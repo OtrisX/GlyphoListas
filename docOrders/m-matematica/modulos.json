@@ -31,6 +31,11 @@
                 "label": "Equação Afim",
                 "description": " ",
                 "value": "m-equacaoafim"
+            },
+            {
+                "label": "Equação Quadrática",
+                "description": " ",
+                "value": "m-equacaoquadratica"
             }
         ],
         
