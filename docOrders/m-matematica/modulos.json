@@ -4,37 +4,37 @@
         "Álgebra I": [
             {
                 "label": "Frações",
-                "description": "",
+                "description": " ",
                 "value": "m-fracoes"
             },
             {
                 "label": "Exponenciação",
-                "description": "",
+                "description": " ",
                 "value": "m-exponenciacao"
             },
             {
                 "label": "Produtos Notáveis",
-                "description": "",
+                "description": " ",
                 "value": "m-produtosnotaveis"
             },
             {
                 "label": "Fatoração",
-                "description": "",
+                "description": " ",
                 "value": "m-fatoracao"
             },
             {
                 "label": "Racionalização",
-                "description": "",
+                "description": " ",
                 "value": "m-racionalizacao"
             },
             {
                 "label": "Equação Afim",
-                "description": "",
+                "description": " ",
                 "value": "m-equacaoafim"
             },
             {
                 "label": "Equação Quadrática",
-                "description": "",
+                "description": " ",
                 "value": "m-equacaoquadratica"
             }
         ],
@@ -42,27 +42,27 @@
         "Álgebra II": [
             {
                 "label": "Conjuntos",
-                "description": "",
+                "description": " ",
                 "value": "m-conjuntos"
             },
             {
                 "label": "Funções",
-                "description": "",
+                "description": " ",
                 "value": "m-funcoes"
             },
             {
                 "label": "Tipos de Função",
-                "description": "",
+                "description": " ",
                 "value": "m-tiposdefuncao"
             },
             {
                 "label": "Função Afim",
-                "description": "",
+                "description": " ",
                 "value": "m-funcaoafim"
             },
             {
                 "label": "Função Quadrática",
-                "description": "",
+                "description": " ",
                 "value": "m-funcaoquadratica"
             }
         ],
@@ -70,37 +70,37 @@
         "Álgebra III": [
             {
                 "label": "Módulo",
-                "description": "",
+                "description": " ",
                 "value": "m-modulo"
             },
             {
                 "label": "Função Modular",
-                "description": "",
+                "description": " ",
                 "value": "m-funcaomodular"
             },
             {
                 "label": "Tipos de Função",
-                "description": "",
+                "description": " ",
                 "value": "m-tiposdefuncao"
             },
             {
                 "label": "Logaritmos",
-                "description": "",
+                "description": " ",
                 "value": "m-logaritmo"
             },
             {
                 "label": "Função Logarítmica",
-                "description": "",
+                "description": " ",
                 "value": "m-funcaologaritmica"
             },
             {
                 "label": "Números Complexos",
-                "description": "",
+                "description": " ",
                 "value": "m-numeroscomplexos"
             },
             {
                 "label": "Polinômios",
-                "description": "",
+                "description": " ",
                 "value": "m-polinomios"
             }
         ]
