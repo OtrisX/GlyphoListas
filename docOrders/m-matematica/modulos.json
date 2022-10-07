@@ -11,6 +11,26 @@
                 "label": "Exponenciação",
                 "description": " ",
                 "value": "m-exponenciacao"
+            },
+            {
+                "label": "Produtos Notáveis",
+                "description": " ",
+                "value": "m-produtosnotaveis"
+            },
+            {
+                "label": "Fatoração",
+                "description": " ",
+                "value": "m-fatoracao"
+            },
+            {
+                "label": "Racionalização",
+                "description": " ",
+                "value": "m-racionalizacao"
+            },
+            {
+                "label": "Equação Afim",
+                "description": " ",
+                "value": "m-equacaoafim"
             }
         ],
         
