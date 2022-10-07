@@ -1,2 +1,7 @@
 /glyphopack.sty
 /xpartials
+*.tex
+*.cpy
+*.aux
+
+
