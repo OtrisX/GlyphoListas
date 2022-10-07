@@ -41,14 +41,67 @@
         
         "Álgebra II": [
             {
-                "label": "Frações",
+                "label": "Conjuntos",
                 "description": " ",
-                "value": "m-matematica"
+                "value": "m-conjuntos"
             },
             {
-                "label": "Exponenciação",
+                "label": "Funções",
                 "description": " ",
-                "value": "m-matematica"
+                "value": "m-funcoes"
+            },
+            {
+                "label": "Tipos de Função",
+                "description": " ",
+                "value": "m-tiposdefuncao"
+            },
+            {
+                "label": "Função Afim",
+                "description": " ",
+                "value": "m-funcaoafim"
+            },
+            {
+                "label": "Função Quadrática",
+                "description": " ",
+                "value": "m-funcaoquadratica"
+            }
+        ],
+
+        "Álgebra III": [
+            {
+                "label": "Módulo",
+                "description": " ",
+                "value": "m-modulo"
+            },
+            {
+                "label": "Função Modular",
+                "description": " ",
+                "value": "m-funcaomodular"
+            },
+            {
+                "label": "Tipos de Função",
+                "description": " ",
+                "value": "m-tiposdefuncao"
+            },
+            {
+                "label": "Logaritmos",
+                "description": " ",
+                "value": "m-logaritmo"
+            },
+            {
+                "label": "Função Logarítmica",
+                "description": " ",
+                "value": "m-funcaologaritmica"
+            },
+            {
+                "label": "Números Complexos",
+                "description": " ",
+                "value": "m-numeroscomplexos"
+            },
+            {
+                "label": "Polinômios",
+                "description": " ",
+                "value": "m-polinomios"
             }
         ]
 
