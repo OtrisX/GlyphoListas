@@ -4,37 +4,37 @@
         "Álgebra I": [
             {
                 "label": "Frações",
-                "description": " ",
+                "description": "ENEM, FUVEST",
                 "value": "m-fracoes"
             },
             {
                 "label": "Exponenciação",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-exponenciacao"
             },
             {
                 "label": "Produtos Notáveis",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-produtosnotaveis"
             },
             {
                 "label": "Fatoração",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-fatoracao"
             },
             {
                 "label": "Racionalização",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-racionalizacao"
             },
             {
                 "label": "Equação Afim",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-equacaoafim"
             },
             {
                 "label": "Equação Quadrática",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-equacaoquadratica"
             }
         ],
@@ -42,27 +42,27 @@
         "Álgebra II": [
             {
                 "label": "Conjuntos",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-conjuntos"
             },
             {
                 "label": "Funções",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-funcoes"
             },
             {
                 "label": "Tipos de Função",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-tiposdefuncao"
             },
             {
                 "label": "Função Afim",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-funcaoafim"
             },
             {
                 "label": "Função Quadrática",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-funcaoquadratica"
             }
         ],
@@ -70,37 +70,37 @@
         "Álgebra III": [
             {
                 "label": "Módulo",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-modulo"
             },
             {
                 "label": "Função Modular",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-funcaomodular"
             },
             {
                 "label": "Tipos de Função",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-tiposdefuncao"
             },
             {
                 "label": "Logaritmos",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-logaritmo"
             },
             {
                 "label": "Função Logarítmica",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-funcaologaritmica"
             },
             {
                 "label": "Números Complexos",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-numeroscomplexos"
             },
             {
                 "label": "Polinômios",
-                "description": " ",
+                "description": "ENEM, FUVEST, ITA",
                 "value": "m-polinomios"
             }
         ]
